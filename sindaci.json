@@ -1,0 +1,173 @@
+{
+  "Agrigento": {
+    "sezioni_totali": 57,
+    "sezioni_scrutinate": 57,
+
+    "candidati": [
+      {
+        "nome": "DINO ALONGE",
+        "voti": 10308,
+        "foto": "https://www.grandangoloagrigento.it/wp-content/uploads/sites/3/2026/05/1_0265e8.jpg"
+      },
+      {
+        "nome": "GIUSEPPE DI ROSA",
+        "voti": 3546,
+        "foto": "https://www.grandangoloagrigento.it/wp-content/uploads/sites/3/2026/05/2_5d90d6.jpg"
+      },
+      {
+        "nome": "MICHELE SODANO",
+        "voti": 11596,
+        "foto": "https://www.grandangoloagrigento.it/wp-content/uploads/sites/3/2026/05/3_97e7b3.jpg"
+      },
+      {
+        "nome": "LUIGI GENTILE",
+        "voti": 4182,
+        "foto": "https://www.grandangoloagrigento.it/wp-content/uploads/sites/3/2026/05/4_8c5552.jpg"
+      }
+    ]
+  },
+
+  "Ribera": {
+    "sezioni_totali": 21,
+    "sezioni_scrutinate": 21,
+
+    "candidati": [
+      {
+        "nome": "EUNICE PALMINTERI",
+        "voti": 648
+      },
+      {
+        "nome": "RICCARDO ROMANO",
+        "voti": 442
+      },
+      {
+        "nome": "CARMELO PACE",
+        "voti": 6339
+      },
+      {
+        "nome": "MARIA ROSARIA PROVENZANO",
+        "voti": 3338
+      }
+    ]
+  },
+
+  "Camastra": {
+    "sezioni_totali": 3,
+    "sezioni_scrutinate": 3,
+
+    "candidati": [
+      {
+        "nome": "GERA BELLOMO",
+        "voti": 455
+      },
+      {
+        "nome": "DARIO GAGLIO",
+        "voti": 840
+      }
+    ]
+  },
+
+  "Cammarata": {
+    "sezioni_totali": 12,
+    "sezioni_scrutinate": 12,
+
+    "candidati": [
+      {
+        "nome": "GIUSEPPE MANGIAPANE",
+        "voti": 2467
+      },
+      {
+        "nome": "GIULIANO TRAINA",
+        "voti": 1595
+      }
+    ]
+  },
+
+  "Casteltermini": {
+    "sezioni_totali": 12,
+    "sezioni_scrutinate": 12,
+
+    "candidati": [
+      {
+        "nome": "GIOACCHINO NICASTRO",
+        "voti": 1852
+      },
+      {
+        "nome": "COSTANTINO RIPEPE",
+        "voti": 1471
+      },
+      {
+        "nome": "PASQUALE MANCUSO",
+        "voti": 1513
+      }
+    ]
+  },
+
+  "Raffadali": {
+    "sezioni_totali": 12,
+    "sezioni_scrutinate": 12,
+
+    "candidati": [
+      {
+        "nome": "IDA CUFFARO",
+        "voti": 5418
+      },
+      {
+        "nome": "SABRINA MANGIONE",
+        "voti": 1688
+      },
+      {
+        "nome": "FRANCESCO MILISENDA",
+        "voti": 51
+      }
+    ]
+  },
+
+  "Sambuca di Sicilia": {
+    "sezioni_totali": 7,
+    "sezioni_scrutinate": 7,
+
+    "candidati": [
+      {
+        "nome": "GIOVANNA CASA'",
+        "voti": 2092
+      },
+      {
+        "nome": "SARIO ARBISI",
+        "voti": 1544
+      }
+    ]
+  },
+
+  "Siculiana": {
+    "sezioni_totali": 7,
+    "sezioni_scrutinate": 7,
+
+    "candidati": [
+      {
+        "nome": "PEPPE ZAMBITO",
+        "voti": 1982
+      },
+      {
+        "nome": "SANTO LUCIA",
+        "voti": 859
+      }
+    ]
+  },
+
+  "Villafranca Sicula": {
+    "sezioni_totali": 2,
+    "sezioni_scrutinate": 2,
+
+    "candidati": [
+      {
+        "nome": "DOMENICO BALSAMO",
+        "voti": 430
+      },
+      {
+        "nome": "ROSARIO SORTINO",
+        "voti": 460
+      }
+    ]
+  }
+}
