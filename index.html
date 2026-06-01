@@ -1416,7 +1416,35 @@ sezioniHTML;
 
 /* COMUNI */
 
-let comuniHTML = '';
+let comuniHTML = `
+
+<section class="comune">
+
+<div class="comune-title">
+BALLOTTAGGIO AGRIGENTO
+</div>
+
+<div style="
+background:rgba(5,15,35,.92);
+border:1px solid rgba(255,255,255,.08);
+overflow:hidden;
+">
+
+<iframe
+src="https://grandangolosettimanale.it/elezioni2026/widget/balltopbar.html?v=${Date.now()}"
+style="
+width:100%;
+height:280px;
+border:none;
+display:block;
+">
+</iframe>
+
+</div>
+
+</section>
+
+`;;
 
 Object.keys(data).forEach(comuneNome=>{
 
